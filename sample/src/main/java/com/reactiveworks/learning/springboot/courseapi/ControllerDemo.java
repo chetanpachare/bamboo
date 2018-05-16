@@ -13,6 +13,6 @@ public class ControllerDemo {
 	
 	@RequestMapping("/")
    public String greetMessage(){
-	   return "WELCOME TO REACTIVEWORKS";
+	   return "WELCOME TO PROD V1";
    }
 }
