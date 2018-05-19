@@ -13,6 +13,6 @@ public class ControllerDemo {
 	
 	@RequestMapping("/")
    public String greetMessage(){
-	   return "WELCOME TO PROD V3";
+	   return "WELCOME TO PROD V4";
    }
 }
